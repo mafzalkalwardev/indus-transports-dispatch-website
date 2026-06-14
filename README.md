@@ -16,13 +16,9 @@ Documented · MIT licensed · Maintained
 
 ---
 
-## 🖼 Screenshots
+## Screenshots
 
-![Indus Transports Dispatch Website screenshot](docs/screenshots/placeholder.svg)
-
-*Replace `docs/screenshots/placeholder.svg` with real app screenshots.*
-
----
+![indus-transports-dispatch-website dashboard](docs/screenshots/app.png)
 
 ## 🐍 Contribution graph
 
