@@ -40,6 +40,10 @@ INDUS TRANSPORTS LLC is a professional truck dispatch and freight logistics webs
 
 The platform provides dispatch services, load booking support, earnings estimation, equipment-specific freight solutions, and carrier onboarding. It includes a responsive multi-page design with SEO optimization, interactive forms, an earnings calculator, and professional logistics branding.
 
+## Screenshots
+
+![indus-transports-dispatch-website dashboard](docs/screenshots/app.png)
+
 ## Features
 
 - Responsive trucking company website
