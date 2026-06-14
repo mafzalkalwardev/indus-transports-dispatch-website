@@ -10,18 +10,11 @@ Documented · MIT licensed · Maintained
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
 [![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
 
-[Features](#-features) · [Quick Start](#-quick-start) · [Screenshots](#-screenshots) · [Contributing](CONTRIBUTING.md)
-
 </div>
 
 ---
 
-## Screenshots
-
-![indus-transports-dispatch-website dashboard](docs/screenshots/app.png)
-
 ## 🐍 Contribution graph
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/indus-transports-dispatch-website/output/snake-dark.svg" />
@@ -29,16 +22,11 @@ Documented · MIT licensed · Maintained
   <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/indus-transports-dispatch-website/output/snake.svg" />
 </picture>
 
-
 ---
 
 INDUS TRANSPORTS LLC is a professional truck dispatch and freight logistics website designed for owner-operators and trucking companies across the USA.
 
 The platform provides dispatch services, load booking support, earnings estimation, equipment-specific freight solutions, and carrier onboarding. It includes a responsive multi-page design with SEO optimization, interactive forms, an earnings calculator, and professional logistics branding.
-
-## Screenshots
-
-![indus-transports-dispatch-website dashboard](docs/screenshots/app.png)
 
 ## Features
 
