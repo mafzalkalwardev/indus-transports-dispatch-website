@@ -1,36 +1,70 @@
 <div align="center">
 
-# 🚀 Indus Transports Dispatch Website
+# Indus Transports Dispatch Website
 
-**Professional truck dispatch and freight logistics website built with HTML, Bootstrap, JavaScript, SEO optimization, onboarding forms, earnings calculator, and responsive multi-page design.**
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=2800&pause=700&color=0B1F3A&center=true&vCenter=true&width=900&lines=Professional+Trucking+Dispatch+Site;Onboarding+%2B+Earnings+Calculator;SEO-Ready+Lead+Capture+Flows;Bootstrap+responsive+marketing" alt="Typing SVG" />
 
-Documented · MIT licensed · Maintained
+<p>
+  <img src="https://komarev.com/ghpvc/?username=mafzalkalwardev&label=Project%20Views&color=0b1f3a&style=for-the-badge" alt="Project views" />
+  <img src="https://img.shields.io/github/stars/mafzalkalwardev/indus-transports-dispatch-website?style=for-the-badge&color=22c55e" alt="GitHub stars" />
+  <img src="https://img.shields.io/github/forks/mafzalkalwardev/indus-transports-dispatch-website?style=for-the-badge&color=f59e0b" alt="GitHub forks" />
+  <img src="https://img.shields.io/github/license/mafzalkalwardev/indus-transports-dispatch-website?style=for-the-badge&color=64748b" alt="License" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-Web-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
-[![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge)](CONTRIBUTING.md)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" alt="Skill icons" />
+</p>
+
+<p>
+  <strong>Professional trucking dispatch website with Bootstrap, onboarding forms, earnings calculator, SEO-ready pages, and responsive lead capture.</strong>
+</p>
 
 </div>
 
 ---
 
-## 🐍 Contribution graph
+## Trophy Cards
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/indus-transports-dispatch-website/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/indus-transports-dispatch-website/output/snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/indus-transports-dispatch-website/output/snake.svg" />
-</picture>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mafzalkalwardev&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4" alt="GitHub trophy cards" />
+</div>
 
 ---
 
-INDUS TRANSPORTS LLC is a professional truck dispatch and freight logistics website designed for owner-operators and trucking companies across the USA.
+## Stats Cards
 
-The platform provides dispatch services, load booking support, earnings estimation, equipment-specific freight solutions, and carrier onboarding. It includes a responsive multi-page design with SEO optimization, interactive forms, an earnings calculator, and professional logistics branding.
+<div align="center">
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mafzalkalwardev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mafzalkalwardev&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</div>
 
-## Screenshots
+---
 
-![Application screenshot](docs/screenshots/app.png)
+## Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mafzalkalwardev&theme=react-dark&hide_border=true&area=true" alt="GitHub activity graph" />
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/mafzalkalwardev/google-voice-dispatch-agent/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## SEO Keywords
+
+`trucking website` `dispatch leads` `owner operator` `Bootstrap`
+
+---
 
 ## Features
 
